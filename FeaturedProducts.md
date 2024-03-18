@@ -1,1 +1,2 @@
 - Product 1\n- Product 2\n- Product 3
+- Product 1 (Discount: 10%)
