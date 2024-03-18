@@ -1,0 +1,1 @@
+- Discount for loyal customers using Coffeehut_wallet: 10%
